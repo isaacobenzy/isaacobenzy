@@ -76,14 +76,7 @@ Interactive mission planning application with mapping capabilities and advanced 
 
 ---
 
-### 📊 Sigtrack Admin Dashboard (Insight)
-**Location:** `SigtrackAdminDashboard/`
 
-Administrative dashboard application designed for data management and oversight.
-
-**Tech Stack:** React, Firebase, Heroicons
-
----
 
 ### 🏫 School Marketplace (Atulsmp)
 **Location:** `atulsmp/`
